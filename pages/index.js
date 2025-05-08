@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.main}>
       <h1>Book with Keigan Andrew Ray</h1>
       <h2>Ascending Ink Co.</h2>
-      <a 
+      <a
         href="https://docs.google.com/forms/d/e/1FAIpQLSdCx3szKDqlNAu2vdBOySVDS5dSwUyWsQa8_h_F8n9vCNSxXw/viewform"
         target="_blank"
         rel="noopener noreferrer"
